@@ -13,7 +13,7 @@ Este script permite a exportação de todos os scripts de tela do Genesys Cloud,
 
 1. **Clone o repositório**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/wagner-damiao/genesys_cloud_cli_scripts/tree/main/scripts/export
    cd <NOME_DA_PASTA_DO_REPOSITORIO>
    ```
 
@@ -86,7 +86,7 @@ This script allows the export of all screen scripts from Genesys Cloud, saving t
 
 1. **Clone the repository**
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/wagner-damiao/genesys_cloud_cli_scripts/tree/main/scripts/export
    cd <REPOSITORY_FOLDER_NAME>
    ```
 
