@@ -46,7 +46,6 @@ This script allows the export of all screen scripts from Genesys Cloud, saving t
 1. **Clone the repository**
    ```bash
   git clone https://github.com/wagner-damiao/genesys_cloud_cli_scripts.git
-   
    ```
 
 2. **Make the script executable**
